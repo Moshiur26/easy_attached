@@ -8,13 +8,13 @@ Gem::Specification.new do |spec|
   spec.authors = ["moshiur26"]
   spec.email = ["moshiurrahmanb11@gmail.com"]
 
-  spec.summary = "TODO: Write a short summary, because RubyGems requires one."
-  spec.description = "TODO: Write a longer description or delete this line."
-  spec.homepage = "TODO: Put your gem's website or public repo URL here."
+  spec.summary = "Easy Attached gem short summary"
+  spec.description = "Easy Attached gem description."
+  spec.homepage = "https://github.com/Moshiur26/easy_attached"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.6.0"
 
-  spec.metadata["allowed_push_host"] = "TODO: Set to your gem server 'https://example.com'"
+  spec.metadata["allowed_push_host"] = "https://github.com/Moshiur26/easy_attached"
 
   spec.metadata["homepage_uri"] = "https://github.com/Moshiur26/easy_attached/blob/master/README.md"
   spec.metadata["source_code_uri"] = "https://github.com/Moshiur26/easy_attached"
